@@ -1,0 +1,223 @@
+
+body{
+    margin: auto;
+    width: 900px;
+}
+
+h1{
+    font-family: 'Yellowtail' ;
+    font-size: 27px;
+    text-indent: 7px ;
+
+}
+h2{
+    font-family: 'Coda Caption';
+    font-size: 38px;
+    font-weight: bold;
+    padding-top: 40px;
+    }
+    img{
+        float: left;
+    }
+    .pLogo {
+        margin-top: 4px;
+        padding: 0px;
+        padding-left: 45px;
+        font-family: 'Antic' ;
+        font-size: 10px;
+        text-indent: 7px ;
+
+    }
+    .mainP{
+        padding-top:10px;
+        font-family: Abel;
+    }
+    .print{
+        margin-left: 861px;
+        margin-top: -7px;
+        font-family: Abel;
+    }
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        width: 20px;
+        height: 15px;
+        font-size: 19px;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+      .fa-facebook {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      
+      .fa-twitter {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      
+      .fa-google {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      
+      .fa-instagram {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      .fa-rss {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      .fa-soundcloud {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      .fa-pinterest {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      .fa-reddit {
+        background: #6F7073;
+        color: white;
+        padding: 6px;
+      }
+      
+    .social-menu{
+        margin-left: 574px;
+        display: inline-flex;
+        margin-top: -43px;
+        position: absolute;
+    }
+    .free-spacs{
+        padding-left: 34px;
+    }
+    .printLogo{
+        float:right;
+        margin-top: -13px;
+        margin-right: 45px;
+    }
+    .mainImage{
+        margin-top: 12px;
+        margin-bottom: 21px;
+    }
+    .mainPragraphs{
+        margin-top: 17px;
+        font-family: Abel;
+        font-size: 18px;
+        text-indent: 30px;
+    }
+
+    .headerDiv{
+        margin-bottom: 30px;
+    }
+
+
+
+/* //////////////////////////// */
+.paper{
+   
+    background-image: url("https://github.com/LTUC/amman-201d3/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+    background-size :cover;
+    background-repeat: no-repeat;
+    height: 242px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    position: relative;
+    font-family: Signika Negative;
+    
+}
+.checkOne {
+    position: absolute;
+    left: 68px;
+    font-size: 25px;
+    top: 33px;
+}
+
+.checkTwo{
+    position: absolute;
+    left: 551px;
+    font-size: 25px;
+    top: 33px;
+    
+
+}
+
+input:checked + label {
+  text-decoration: line-through;
+  }
+
+.button {
+    background-color: rgb(202, 62, 62);
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .footer_bottom { 
+	width:100%; 
+	text-align:center; 
+	border-bottom: 2px solid #cec5ba; 
+	line-height:0.1em; 
+    margin:37px 0 20px; 
+    position :relative;
+} 
+.footer_bottom img { 
+	position:absolute; bottom:-15px;
+    left:62%;
+    margin-left:-125px;
+}
+
+.copyRight{
+    text-align: center;
+    color: #b4afaf;
+    font-size: 11px;
+    font-weight: 600;
+    margin: 2%;
+}
+
+h5 {
+    font-weight: 600;
+    padding-left: 84px;
+    margin-top: -67px;
+    font-size: 16px;
+}
+
+button {
+
+    margin-left: 721px;
+    margin-top: -33px; 
+}
+
+.info {
+    margin-top: 96px;
+}
+
+.pf2{
+    padding-left: 85px;
+    margin-top: 15px;
+}
+
+.topHr{
+    border-top: 1px dotted #9a9a9a;
+    margin: 0;
+}
+
+
